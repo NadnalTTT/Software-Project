@@ -21,5 +21,12 @@ N/A
 - Godot
 - FireBase
 
+## Schedule Plan (TBD)
+- Week 1 - 2: Planning and Research
+- Week 3 - 4: Design
+- Week 5 - 8: Implementation
+- Week 9 - 10: Testing
+- Week 11 - 12: Presentation
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
